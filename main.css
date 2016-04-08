@@ -7,10 +7,11 @@ body {
   top:0;
   bottom:0;
   width:25%;
-  background-color:blue; 
+  background-color:#34434F; 
+  color: white;
 }
 
-,header {
+.header {
   text-align:right;
   margin-top: 100px
 
