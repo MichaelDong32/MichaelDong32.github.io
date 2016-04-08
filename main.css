@@ -1,0 +1,11 @@
+body {
+  font-family: helvetica;
+}
+
+.sidebar {
+  position:fixed;
+  top:0;
+  bottom:0;
+  width:25%;
+  background:#3443f; 
+}
