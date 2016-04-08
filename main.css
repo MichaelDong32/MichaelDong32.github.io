@@ -7,5 +7,16 @@ body {
   top:0;
   bottom:0;
   width:25%;
-  background:#3443f; 
+  background-color:blue; 
+}
+
+,header {
+  text-align:right;
+  margin-top: 100px
+
+} 
+
+.content {
+  width: 75%;
+  margin-left: 25%;
 }
