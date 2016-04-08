@@ -25,14 +25,15 @@ body {
   padding:0 10% 0 5%;
 }
 
-.content h3{
-  color: #555;
+.content h3 {
+  color: #555; 
 }
+
 
 .post {
   margin-left:25%;
-  width: 60%;
-  margin-top: 50px
+  width: 50%;
+  margin-top: 50px;
   padding:0 10% 0 5%;
 }
 
