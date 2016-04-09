@@ -30,13 +30,12 @@ body {
 }
 
 .button {
-  background-color: green;
+  background-color: #34434F;
   border: none;
-  colour:white;
-  padding: 15px 20px
-  text-align:center;
-  text-decoration: none;
-  font-size: 12px
+  padding: 20px, 30px;
+  color: white;
+  text-align: center;
+  
 }
 
 
