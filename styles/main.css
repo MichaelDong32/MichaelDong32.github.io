@@ -1,7 +1,7 @@
 body {
   font-family: helvetica;
 }
-
+/*side header*/
 .sidebar {
   position:fixed;
   top:0;
@@ -18,13 +18,14 @@ body {
   margin-top: 50px;
 
 } 
+/*navigation links*/
 
 .nav {
   text-align: right;
   padding-right:5px;
 }
 
-.ul {
+ul {
   list-style-type: none;
 }
 
@@ -46,6 +47,7 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
+/*content on home page*/
 
 .content {
   width: 50%;
@@ -70,6 +72,7 @@ a:active {
   font-size: 16px;  
 }
 
+/* posts */
 
 .post {
   margin-left:25%;
