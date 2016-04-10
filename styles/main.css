@@ -14,9 +14,15 @@ body {
 .header {
   padding: 50px;
   text-align:right;
-  margin-top: 100px
+  margin-right: 5px;
 
 } 
+
+.nav {
+  text-align: right;
+  list-style-type: none;
+  padding-right:5px;
+}
 
 .content {
   width: 50%;
@@ -29,10 +35,7 @@ body {
   color: #555; 
 }
 
-.nav {
-  text-align: right;
-  list-style: none;
-}
+
 .button {
   background-color: green;
   border: none;
