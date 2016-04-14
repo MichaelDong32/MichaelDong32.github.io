@@ -1,3 +1,8 @@
+*{
+line-height: 1.5em  
+}
+
+
 body {
   font-family: helvetica;
 }
@@ -85,3 +90,7 @@ img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
+
+dt {
+  font-weight: bold;
+}
