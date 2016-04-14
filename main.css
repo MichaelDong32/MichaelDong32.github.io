@@ -1,0 +1,39 @@
+body {
+  font-family: helvetica;
+}
+
+.sidebar {
+  position:fixed;
+  top:0;
+  bottom:0;
+  width:25%;
+  background-color:#34434F; 
+  color: white;
+}
+
+.header {
+  padding: 50px;
+  text-align:right;
+  margin-top: 100px
+
+} 
+
+.content {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+  padding:0 10% 0 5%;
+}
+
+.content h3 {
+  color: #555; 
+}
+
+
+.post {
+  margin-left:25%;
+  width: 50%;
+  margin-top: 50px;
+  padding:0 10% 0 5%;
+}
+
