@@ -53,7 +53,7 @@ a:active {
   text-decoration: underline;
 }
 
-.app.a:visited {
+a.app:visited {
   color:blue;
 }
 /*content on home page*/
