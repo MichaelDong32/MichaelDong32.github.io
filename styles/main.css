@@ -1,11 +1,10 @@
 *{
 line-height: 1.5em 
-font-family:open-sans; 
 }
 
 
 body {
-  font-family: helvetica;
+  font-family: open-sans;
 }
 /*side header*/
 .sidebar {
