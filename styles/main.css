@@ -89,6 +89,7 @@ p.post-intro{
   height:auto;
   color:white;
   padding-top: 20px;
+  padding-bottom: 50px;
 }
 
 .footer h3 {
@@ -104,5 +105,29 @@ p.post-intro{
 
 h5.category-type{
   margin-bottom: 0px;
+  font-size: 20px;
 }
+
+@media screen and (min-width: 550px) {
+  .one-half.column h4{
+    text-align: left;
+  }
+  .one-half.column p {
+    text-align: left;
+    font-size: 20px;
+  }
+  .nav { 
+  text-align: right;
+  padding-top: 70px;
+}
+  .section.hero {
+    height: 200px;
+  }
+
+  .section.posts{
+  margin-bottom: 70px;
+  }
+
+
+  
 
