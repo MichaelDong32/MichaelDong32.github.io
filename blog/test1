@@ -3,7 +3,7 @@
     <head>
 
       <meta charset="utf-8">
-        <title>Blog template</title>
+        <title>Mikes blog</title>
 
 
   <!-- Mobile Specific Metas
@@ -26,7 +26,7 @@
     <div class="container">
       <div class="row">
         <div class="one-half column">
-          <h4 class="hero-heading">Mikes blog</h4>
+          <h4 class="hero-heading">test</h4>
           <p class="hero-byline">Journey through the EDA web</p>
         </div>
         <div class="one-half column links">
@@ -40,39 +40,42 @@
     </div>
   </div>
 
-
 <!-- section body -->
 
-  <div class="section date">
+  <div class="section intro">
     <div class="container">
       <div class="row">
-        <p class="blog-date">date</p>
+        <p class="page-introduction">New learnings</p>
       </div>
     </div>
   </div>
 
-  <div class="section heading">
+  <div class="section posts">
     <div class="container">
       <div class="row">
-        <div class="twelve column header">
-          <h1 class="post-title">blog title</h1>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="article blog">
-    <div class="container">
-      <div class="row">
-        <div class="12 column blog">
+        <div class="one-third column posts">
           <img class="u-max-full-width" src="http://placehold.it/300x200" alt="post1">
-          
-          <p class="blog">some text blah blah blah</p>
+          <h5 class="post-title">Post title</h5>
+          <p class="post-intro">some post intro text blah blah blah</p>
+          <a class="button button-primary" href= "#">Read more</a>
+
+        </div>
+        <div class="one-third column posts">
+          <img class="u-max-full-width" src="http://placehold.it/300x200" alt="post1">
+          <h5 class="post-title">Post title</h5>
+          <p class="post-intro">some post intro text blah blah blah</p>
+          <a class="button button-primary" href= "#">Read more</a>
+        </div>
+        <div class="one-third column posts">
+          <img class="u-max-full-width" src="http://placehold.it/300x200" alt="post1">
+          <h5 class="post-title">Post title</h5>
+          <p class="post-intro">some post intro text blah blah blah</p>
+          <a class="button button-primary" href= "#">Read more</a>
         </div>
       </div>
     </div>
-    </div>
-    
+  </div>
+
   <!-- footer -->
 
   <div class="footer">
