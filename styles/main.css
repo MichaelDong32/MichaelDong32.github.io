@@ -99,6 +99,10 @@ p.post-intro{
   margin-top: 30px;
 }
 
+.one-third.column.posts{
+  margin-bottom: 60px;
+}
+
 p.blog {
   text-align: left;
   text-transform: none;
