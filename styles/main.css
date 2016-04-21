@@ -108,6 +108,11 @@ p.blog {
   text-transform: none;
 }
 
+h5.blog{
+  text-align: left;
+  text-transform: capitalize;
+}
+
 /* footer */
 
 .footer {
