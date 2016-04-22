@@ -119,6 +119,14 @@ ol{
   text-transform: none;
 }
 
+p.blog a {
+  color: black;
+}
+
+dl {
+  text-align: left;
+}
+
 
 /* footer */
 
@@ -145,6 +153,7 @@ ol{
 h5.category-type{
   margin-bottom: 0px;
   font-size: 20px;
+  text-transform: lowercase;
 }
 
 .one-third.column.category p{
@@ -173,11 +182,11 @@ h5.category-type{
   margin-bottom: 70px;
   }
 
-p.blog {
+p.blog, ol, dl {
   font-size: 20px;
 }
 
-ol{
+/*ol{*/
   font-size: 20px;
 }
   
