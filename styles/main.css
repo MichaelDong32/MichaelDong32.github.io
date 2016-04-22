@@ -97,6 +97,7 @@ p.post-intro{
 .article.blog {
   text-align: center;
   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .one-third.column.posts{
@@ -113,6 +114,12 @@ h5.blog{
   text-transform: capitalize;
 }
 
+ol{
+  text-align: left;
+  text-transform: none;
+}
+
+
 /* footer */
 
 .footer {
@@ -128,17 +135,22 @@ h5.blog{
 .footer h3 {
   font-size: 15px;
   text-transform: uppercase;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .one-third.column.category {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px
 }
 
 h5.category-type{
   margin-bottom: 0px;
   font-size: 20px;
+}
+
+.one-third.column.category p{
+  text-transform: capitalize;
+  margin-top: 0px;
+  text-align: left;
 }
 
 @media screen and (min-width: 550px) {
@@ -162,6 +174,10 @@ h5.category-type{
   }
 
 p.blog {
+  font-size: 20px;
+}
+
+ol{
   font-size: 20px;
 }
   
