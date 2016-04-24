@@ -75,6 +75,8 @@ h1.header-heading{
   padding-bottom: 50px;
 }
 
+
+
 /* section*/
 
 .section.posts{
@@ -112,6 +114,7 @@ p.blog {
 h5.blog{
   text-align: left;
   text-transform: capitalize;
+  font-size: 16px;
 }
 
 ol{
@@ -127,6 +130,15 @@ dl {
   text-align: left;
 }
 
+ul {
+  text-align: left;
+  text-transform: none;
+  list-style-type: none;
+}
+
+.section.images{
+  text-align: center;
+}
 
 /* footer */
 
@@ -182,9 +194,11 @@ h5.category-type{
   margin-bottom: 70px;
   }
 
-p.blog, ol, dl {
+p.blog, ol, dl, ul{
   font-size: 16px;
 }
+
+
 
 /*ol{*/
   font-size: 20px;
