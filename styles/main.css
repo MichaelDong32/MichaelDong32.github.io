@@ -134,6 +134,7 @@ ul {
   text-align: left;
   text-transform: none;
   list-style-type: none;
+  text-indent: 50px;
 }
 
 .section.images{
