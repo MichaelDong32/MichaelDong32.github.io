@@ -75,6 +75,9 @@ h1.header-heading{
   padding-bottom: 50px;
 }
 
+code {
+  text-align: left;
+}
 
 
 /* section*/
